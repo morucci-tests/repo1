@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-6bfbfdfb9cc1ffef0712220bc87982c19e0fcc69	repo1-ptl
+# UUID          Group Name
+False 	Non-Interactive Users
+88f4bafd3eb347676218c7390b31f3895b81eb1f       	repo1-core
+6bfbfdfb9cc1ffef0712220bc87982c19e0fcc69        	repo1-ptl
+global:Registered-Users		Registered Users
